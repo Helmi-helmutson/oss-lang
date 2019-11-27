@@ -206,6 +206,7 @@
         "PASSWORD": "Passwort",
         "PHONE": "Telefonnumer",
         "PORT": "Port",
+        "PORTSYNTAX" : "Bsp. 22 3389:3392 443",
         "PRODUCT": "Produkt",
         "PROT": "Protokoll",
         "REGCODE": "Registrierungscode",
