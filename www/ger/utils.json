@@ -153,6 +153,7 @@
         "CATTYPE": "Type",
         "CEPHALIXPW": "Cephalixpasswort",
         "CHANGEPW": "Passwort ändern",
+	"class" : "Klasse",
         "CLEANCLASSDIRS": "Klassenverzeichnis leeren",
         "DESCR": "Beschreibung",
         "DEST": "Ziel",
@@ -174,6 +175,7 @@
         "GIVENNAME": "Vorname",
         "GNSNBD": "Voller Name + Geburtstag",
         "GTWSCHOOL": "Gateway (intern)",
+	"guest" : "Gastgruppe",
         "GWTRNET": "Gateway (extern)",
         "HOLIDAY": "Feiertags",
         "IDENTIFIER": "Identifikator",
@@ -207,6 +209,7 @@
         "PHONE": "Telefonnumer",
         "PORT": "Port",
         "PORTSYNTAX" : "Bsp. 22 3389:3392 443",
+        "primary" : "Rolle",
         "PRODUCT": "Produkt",
         "PROT": "Protokoll",
         "REGCODE": "Registrierungscode",
@@ -235,7 +238,8 @@
         "UUID": "Kennung (uuid)",
         "VALIDFROM": "Gültig von",
         "VALIDUNTIL": "Gültig bis",
-        "WED": "Mi"
+        "WED": "Mi",
+	"workgroup" : "Arbeitsgruppe"
     },
     "TOOLTIP": {
         "BLOCKDEVICE": "Sperren",
